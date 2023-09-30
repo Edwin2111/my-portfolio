@@ -1,0 +1,11 @@
+.meul:hover .meli{
+    opacity: .2;
+    filter: blur(1px);
+    transition: all ease 1s ;
+}
+
+.meul .meli:hover{
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(-3%);
+}
