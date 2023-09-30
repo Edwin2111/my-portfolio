@@ -9,6 +9,7 @@ function Header() {
   console.log(actual)
   const listTitle = {
     '/':"Wellcome..!!",
+    '/my-portfolio':"Wellcome..!!",
     '/biography':"Page Biography",
     '/knowledge':"Page Knowledge",
     '/aplications':"Page Aplications",

@@ -10,6 +10,7 @@ function Body() {
   return (
         <Routes>
             <Route path="/" element={<Home></Home>}></Route>
+            <Route path="/my-portfolio/" element={<Home></Home>}></Route>
             <Route path="/biography" element={<Biografia/>}/>
             <Route path="/knowledge" element={<Knowledge/>}/>
             <Route path="/aplications" element={<Aplications/>}/>
